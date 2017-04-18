@@ -14,12 +14,13 @@ Data         | Local
 
 ### Objetivos
 * Definir escopo do projeto
-* Mapear requesitos iniciais
+* Mapear requisitos iniciais
+* Definir data para próximas reuniões
 
 ### Tópicos Discutidos
 * Viabilidade do projeto
 * Tempo de entrega
-* Beneficios esperados a curto e longo prazo
+* Benefícios esperados a curto e longo prazo
 
 ### Ações a serem tomadas
 Ação         | Responsável   
