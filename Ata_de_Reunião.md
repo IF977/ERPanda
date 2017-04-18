@@ -5,12 +5,12 @@
 
 Data         | Local
 ------------ | -------------
-18/04/2017   | Sede Pandas Bárbaros - Deceria
+18/04/2017   | Sede Pandas Bárbaros - Doceria
 
 
 ### Participantes
- * Ana Bárbara(ABDS)
- * Jaime Fernandes(JFAN)
+ * Ana Bárbara (abds)
+ * Jaime Fernandes (jfan)
 
 ### Objetivos
 * Definir escopo do projeto
